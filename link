@@ -1,0 +1,363 @@
+#!/bin/bash
+echo
+echo "    ╱▔▔▔▔▔╲ ╱▔╲           Cctv-View "
+echo "    ▏  ▏╭╮▕ ▏╳▕  "
+echo "    ▏  ▏  ▕ ╲▂╱ tools untuk melihat cctv melalui "
+echo " ╱▔▔╲▂╱╲▂▂ ╲▂▏▏ link yang sudah discan sebelumnya "
+echo "╭▏       ▏╲▂▂╱ "
+echo "┃▏    ▏  ▏ _________________________________________ "
+echo "╯▏ ╲╱▔╲▅▅▏/                                         \ "
+echo " ╲▅▅▏▕▔▔▔▔▏            [CYFORANGCHIVER]              ) "
+echo "      \_____________________________________________/ "
+echo
+echo
+sleep 0.02
+echo " •=============================•"
+sleep 0.02
+echo "• link : http://72.65.232.129:60001"
+sleep 0.02
+echo "• (tanpa password) "
+sleep 0.02
+echo " •=============================•"
+echo
+sleep 0.02
+echo " •=============================•"
+sleep 0.02
+echo "• link : http://98.224.90.127:60001"
+sleep 0.02
+echo "• (tanpa password) "
+sleep 0.02
+echo " •=============================•"
+echo
+sleep 0.02
+echo " •=============================•"
+sleep 0.02
+echo "• link : http://98.20.112.128:60001"
+sleep 0.02
+echo "• (tanpa password) "
+sleep 0.02
+echo " •=============================•"
+echo
+sleep 0.02
+echo " •=============================•"
+sleep 0.02
+echo "• link : http://84.46.79.128:85"
+sleep 0.02
+echo "• (tanpa password) "
+sleep 0.02
+echo " •=============================•"
+echo
+sleep 0.02
+echo " •=============================•"
+sleep 0.02
+echo "• link : http://84.46.79.128:84"
+sleep 0.02
+echo "• (tanpa password) "
+sleep 0.02
+echo " •=============================•"
+echo
+sleep 0.02
+echo " •=============================•"
+sleep 0.02
+echo "• link : http://79.221.84.128:81"
+sleep 0.02
+echo "• (tanpa password) "
+sleep 0.02
+echo " •=============================•"
+echo
+sleep 0.02
+echo " •=============================•"
+sleep 0.02
+echo "• link : http://93.231.106.129:8001"
+sleep 0.02
+echo "• (tanpa password) "
+sleep 0.02
+echo " •=============================•"
+echo
+sleep 0.02
+echo " •=============================•"
+sleep 0.02
+echo "• link : http://79.232.113.126:91"
+sleep 0.02
+echo "• (tanpa password) "
+sleep 0.02
+echo " •=============================•"
+echo
+sleep 0.02
+echo " •=============================•"
+sleep 0.02
+echo "• link : http://87.156.183.115:80"
+sleep 0.02
+echo "• (tanpa password) "
+sleep 0.02
+echo " •=============================•"
+echo
+sleep 0.02
+echo " •=============================•"
+sleep 0.02
+echo "• link : http://46.237.202.116:8083"
+sleep 0.02
+echo "• (tanpa password) "
+sleep 0.02
+echo " •=============================•"
+echo
+sleep 0.02
+echo " •=============================•"
+sleep 0.02
+echo "• link : http://79.224.194.116:80"
+sleep 0.02
+echo "• (tanpa password) "
+sleep 0.02
+echo " •=============================•"
+echo
+sleep 0.02
+echo " •=============================•"
+sleep 0.02
+echo "• link : http://84.180.99.117:8080"
+sleep 0.02
+echo "• (tanpa password) "
+sleep 0.02
+echo " •=============================•"
+echo
+sleep 0.02
+echo " •=============================•"
+sleep 0.02
+echo "• link : http://195.202.55.115:8888"
+sleep 0.02
+echo "• (tanpa password) "
+sleep 0.02
+echo " •=============================•"
+echo
+sleep 0.02
+echo " •=============================•"
+sleep 0.02
+echo "• link : http://125.207.211.197:8080"
+sleep 0.02
+echo "• (tanpa password) "
+sleep 0.02
+echo " •=============================•"
+echo
+sleep 0.02
+echo " •=============================•"
+sleep 0.02
+echo "• link : http://128.28.148.197:80"
+sleep 0.02
+echo "• (tanpa password) "
+sleep 0.02
+echo " •=============================•"
+echo
+sleep 0.02
+echo " •=============================•"
+sleep 0.02
+echo "• link : http://180.34.85.199:80"
+sleep 0.02
+echo "• (tanpa password) "
+sleep 0.02
+echo " •=============================•"
+echo
+sleep 0.02
+echo " •=============================•"
+sleep 0.02
+echo "• link : http://153.136.105.198:80"
+sleep 0.02
+echo "• (tanpa password) "
+sleep 0.02
+echo " •=============================•"
+echo
+sleep 0.02
+echo " •=============================•"
+sleep 0.02
+echo "• link : http://153.156.221.197:8081"
+sleep 0.02
+echo "• (tanpa password) "
+sleep 0.02
+echo " •=============================•"
+echo
+sleep 0.02
+echo " •=============================•"
+sleep 0.02
+echo "• link : http://110.232.95.199:88"
+sleep 0.02
+echo "• (tanpa password) "
+sleep 0.02
+echo " •=============================•"
+echo
+sleep 0.02
+echo " •=============================•"
+sleep 0.02
+echo "• link : http://175.158.43.163:8001"
+sleep 0.02
+echo "• (tanpa password) "
+sleep 0.02
+echo " •=============================•"
+echo
+sleep 0.02
+echo " •=============================•"
+sleep 0.02
+echo "• link : http://139.255.104.155:80"
+sleep 0.02
+echo "• (tanpa password) "
+sleep 0.02
+echo " •=============================•"
+echo
+sleep 0.02
+echo " •=============================•"
+sleep 0.02
+echo "• link : http://124.81.86.130:8080"
+sleep 0.02
+echo "• (tanpa password) "
+sleep 0.02
+echo " •=============================•"
+echo
+sleep 0.02
+echo " •=============================•"
+sleep 0.02
+echo "• link : http://86.199.110.126:80"
+sleep 0.02
+echo "• (tanpa password) "
+sleep 0.02
+echo " •=============================•"
+echo
+sleep 0.02
+echo " •=============================•"
+sleep 0.02
+echo "• link : http://90.3.4.126:8080"
+sleep 0.02
+echo "• (tanpa password) "
+sleep 0.02
+echo " •=============================•"
+echo
+sleep 0.02
+echo " •=============================•"
+sleep 0.02
+echo "• link : http://90.90.247.123:8080"
+sleep 0.02
+echo "• (tanpa password) "
+sleep 0.02
+echo " •=============================•"
+echo
+sleep 0.02
+echo " •=============================•"
+sleep 0.02
+echo "• link : http://176.185.89.123:80"
+sleep 0.02
+echo "• (tanpa password) "
+sleep 0.02
+echo " •=============================•"
+echo
+sleep 0.02
+echo " •=============================•"
+sleep 0.02
+echo "• link : http://61.120.208.96:80"
+sleep 0.02
+echo "• (tanpa password) "
+sleep 0.02
+echo " •=============================•"
+echo
+sleep 0.02
+echo " •=============================•"
+sleep 0.02
+echo "• link : http://219.109.234.254:80"
+sleep 0.02
+echo "• (tanpa password) "
+sleep 0.02
+echo " •=============================•"
+echo
+sleep 0.02
+echo " •=============================•"
+sleep 0.02
+echo "• link : http://125.206.48.233:80"
+sleep 0.02
+echo "• (tanpa password) "
+sleep 0.02
+echo " •=============================•"
+echo
+sleep 0.02
+echo " •=============================•"
+sleep 0.02
+echo "• link : http://153.156.222.92:80"
+sleep 0.02
+echo "• (tanpa password) "
+sleep 0.02
+echo " •=============================•"
+echo
+sleep 0.02
+echo " •=============================•"
+sleep 0.02
+echo "• link : http://61.205.224.210:80"
+sleep 0.02
+echo "• (tanpa password) "
+sleep 0.02
+echo " •=============================•"
+echo
+sleep 0.02
+echo " •=============================•"
+sleep 0.02
+echo "• link : http://185.72.41.126:91"
+sleep 0.02
+echo "• (tanpa password) "
+sleep 0.02
+echo " •=============================•"
+echo
+sleep 0.02
+echo " •=============================•"
+sleep 0.02
+echo "• link : http://213.187.17.124:80"
+sleep 0.02
+echo "• (tanpa password) "
+sleep 0.02
+echo " •=============================•"
+echo
+sleep 0.02
+echo " •=============================•"
+sleep 0.02
+echo "• link : http://185.72.41.123:90"
+sleep 0.02
+echo "• (tanpa password) "
+sleep 0.02
+echo " •=============================•"
+echo
+sleep 0.02
+echo " •=============================•"
+sleep 0.02
+echo "• link : http://83.211.71.120:8082"
+sleep 0.02
+echo "• (tanpa password) "
+sleep 0.02
+echo " •=============================•"
+echo
+sleep 0.02
+echo " •=============================•"
+sleep 0.02
+echo "• link : http://185.72.41.118:91"
+sleep 0.02
+echo "• (tanpa password) "
+sleep 0.02
+echo " •=============================•"
+echo
+sleep 0.02
+echo " •=============================•"
+sleep 0.02
+echo "• link : http://166.139.117.94:80"
+sleep 0.02
+echo "• (tanpa password) "
+sleep 0.02
+echo " •=============================•"
+echo
+sleep 0.02
+echo " •=============================•"
+sleep 0.02
+echo "• link : http://71.199.194.96:60001"
+sleep 0.02
+echo "• (tanpa password) "
+sleep 0.02
+echo " •=============================•"
+echo
+sleep 0.02
+echo " •=============================•"
+sleep 0.02
+echo "• link : http://166.141.200.97:8081"
+sleep 0.02
+echo "• (tanpa password) "
+sleep 0.02
+echo " •=============================•"
